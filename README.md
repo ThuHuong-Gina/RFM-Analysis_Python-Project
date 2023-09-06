@@ -7,9 +7,11 @@ RFM stands for Recency, frequency, and Monetary. RFM segmentation is a scoring t
 - Monetary: is the total amount of money a customer spend in that given period.
 
 ### 2. Business questions
-- The Marketing Department needs to classify the segments of each customer to deploy each marketing program suitable for each customer group.
-- The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
-- Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
+- SuperStore is an international retail corporation, and its Marketing Department intends to initiate marketing initiatives for the Christmas and New Year holidays as a gesture of gratitude to their existing customers for their continued support. Additionally, they aim to convert potential customers into loyal patrons.
+
+- The Marketing Director has put forth a strategy involving the utilization of the RFM model in Python to categorize customers and subsequently execute tailored marketing campaigns. They seek an assessment of the current company situation and recommendations for the Marketing team.
+
+- In the context of Superstore's retail model, which of the three indicators - Recency (R), Frequency (F), or Monetary Value (M) - should receive the most emphasis?
 
 # II. Insights
 - The majority of customers fall under the category of "Potential Loyalists," and because they are a loyal client base, special holiday promotions should be offered to them.
