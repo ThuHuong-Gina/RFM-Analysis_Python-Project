@@ -1,4 +1,4 @@
-# RFM Analysis Python_Personal Project 
+# RFM Analysis Python Personal Project 
 ## I. Introduction
 ### I.1. What is  RFM Segmentation 
 RFM stands for Recency, frequency, and Monetary. RFM segmentation is a scoring technique used to better quantify customer behavior. During marketing campaigns, not all customers should be contacted with the same effort. Direct marketing segmentation enables to group customers in different segments and analyze their profitability accordingly.
@@ -72,8 +72,23 @@ rfm_df.head()
 
 Now, cusomer IDs are classified in each segmentation.
 
-# II. Insights
-## II.1. Insight about the distribution of customers per segmentation
+# II. Data Visualization by Python
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/61978663-f1d4-4176-a4d2-6a5e9d013889)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/0d536f43-8593-4e8b-9bf3-52d2c1f5b69e)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/eeb84c73-a12b-4d00-937b-1c0deefa6f48)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/c66cd9fe-052e-4246-9170-5bc574cbb04d)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/ca751f5e-9646-4ac2-b293-df103a9c2a9c)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/c3f16eaa-4990-48bd-a221-b41889884867)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/f9802be3-8328-49fa-b0fe-f5f2b176c8f2)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/6b68f9d3-3e6e-417d-b146-43a1a8431199)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/02deaa76-d4e4-4e2e-9968-9396ffb8efeb)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/fe386b5a-aed2-40a8-b7bb-239687976b33)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/912afa7b-e890-4c25-81f6-beda86526cbf)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/babf234c-1211-4558-81aa-b95b94fde3e7)
+![image](https://github.com/ThuHuong-Gina/RFM-Analysis_Python-Project/assets/141025228/6f2a9e00-ab5c-4dfd-913b-a128c509afbb)
+
+# III. Insights
+## III.1. Insight about the distribution of customers per segmentation
 - **Potential Loyalists (14.2%):**
 These are customers who have shown potential for becoming loyal to the company's products or services.
 They might have had a positive experience with the company but haven't reached full loyalty yet.
@@ -121,7 +136,7 @@ The company should prioritize providing exceptional service to retain their loya
 
 => In summary, this segmentation provides valuable insights into the existing customer base, helping the company tailor its strategies to cater to each segment's unique needs. It's important to consider the appropriate actions for each segment to maximize customer retention, acquisition, and overall growth.
 
-## II.2. Recency, Frequency and Monetary insights
+## III.2. Recency, Frequency and Monetary insights
 
  *Recency:* 
   - Two groups that are significant to the company are Protencial Loyalists and. There is a need for a strategy to decrease the recency of these two categories, particularly Protencial Loyalists, who are almost-loyal pertencial consumers. The business should decrease the recency of this group to turn them into devoted customers.
@@ -146,7 +161,7 @@ The company should prioritize providing exceptional service to retain their loya
 
 - Promising: While their percentage might be moderate, the potential for high-value contributions makes converting these customers into loyal segments a priority.
 
-## II.3. Number of orders
+## III.3. Number of orders
 ***Number of order per segmentation***
 
 - The segment labeled ***At Risk*** holds the highest count of orders (additionally, it's the second-largest in terms of customer count). This highlights the significance of targeting customers from this group in the company's marketing efforts, given their substantial numbers in both customers and orders. Despite their large presence, these customers are at risk of attrition.
